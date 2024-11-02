@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @DylanPatel401
+- 👋 Hi, I’m Dylan Patel
 - 👀 I’m interested in frontend development, specifically mobile app development.
 - 🌱 I’m currently learning python to create a data science project
 - 💞️ I’m looking to collaborate on projects that focus on productivity tools, and SAAS.
