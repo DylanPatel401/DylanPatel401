@@ -5,14 +5,6 @@
 </p>
 
 
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://streak-stats.demolab.com/?user=dylanpatel401&theme=tokyonight&hide_border=true&cache_seconds=86400" alt="dylanpatel401's GitHub Streak" width="49%" />
-</p>
-
-
-
 ## 🔗 Connect with Me
 <p align="center"><a href="https://www.linkedin.com/in/dylan-patel1" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/LinkedIN.svg" alt="LinkedIN" width="40" height="40" style="margin: 0 8px;"/></a> <a href="mailto:pateldylan401@gmail.com" target="_blank"><img src="https://raw.githubusercontent.com/gauravghongde/social-icons/9d939e1c5b7ea4a24ac39c3e4631970c0aa1b920/SVG/Color/Gmail.svg" alt="Gmail" width="40" height="40" style="margin: 0 8px;"/></a></p>
 
